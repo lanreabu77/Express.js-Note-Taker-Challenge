@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"School Work","text":"Practice Math\n","id":1},{"title":"Sports","text":"Gold in Long Jump Finals\n","id":2},{"title":"Church","text":"Bible Study on Wednesday\n","id":3},{"title":"Family Time","text":"Movie Night on Friday","id":4}]
